@@ -2093,18 +2093,18 @@ input, select, textarea {
 			font-weight: 900;
 			text-transform: uppercase;
 			color: #fff;
-			font-size: 2em;
+			font-size: 4em;
 			letter-spacing: 0.25em;
 		}
 
 		#logo p {
 			color: #eee;
-			color: rgba(255, 255, 255, 0.5);
+			color: rgba(255, 255, 255, 0.8);
 			text-transform: uppercase;
 			margin: 1.25em 0 0 0;
 			display: block;
 			letter-spacing: 0.2em;
-			font-size: 0.9em;
+			font-size: 1.1em;
 		}
 
 /* Nav */
@@ -2141,7 +2141,7 @@ input, select, textarea {
 					color: rgba(255, 255, 255, 0.75);
 					text-transform: uppercase;
 					text-decoration: none;
-					font-size: 0.7em;
+					font-size: 0.8em;
 					letter-spacing: 0.25em;
 					height: 5em;
 					line-height: 5em;
